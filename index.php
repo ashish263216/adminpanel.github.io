@@ -72,7 +72,6 @@
             <span class="link_name">Products</span>
           </a>
           <i class='bx bxs-chevron-down arrow' ></i>
-          
         </div>
         <ul class="sub-menu">
           <li><a class="link_name" href="#">Products</a></li>
